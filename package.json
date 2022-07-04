@@ -1,0 +1,43 @@
+{
+  "name": "Eventory",
+  "version": "1.0-beta1",
+  "description": "Eventory Admin is a free to use",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rein033/Eventory.git"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "html",
+    "template",
+    "admin",
+    "bootstrap",
+    "theme",
+    "backend",
+    "responsive"
+  ],
+  "author": "ROCMN",
+  "contributors": [
+    "Alberto van Eckeveld",
+    "Rein Eijkelboom"
+  ],
+  "license": "MIT",
+  "main": "build/js/custom.min.js",
+  "bugs": {
+    "url": "https://github.com/Rein033/Eventory/issues"
+  },
+  "homepage": "https://github.com/Rein033/Eventory#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-ruby-sass": "^4.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
